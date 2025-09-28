@@ -1,4 +1,3 @@
-
 interface ButtonProps {
   buttonLabel: string
   buttonSize?: string
